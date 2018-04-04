@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 nov. 2013, 20:04:46
+    Author     : Jean-Baptiste
+*/
+/*
+#menu-user-name{ background: rgb(255, 194, 0) url(../img/menuicon2.png) no-repeat 6px 7px;
+border: 0;
+display: inline-block;
+text-align: center;
+cursor: pointer;
+border-bottom: solid 3px #EB9600;
+height: 20px;
+font: normal 11px/22px Cabin;
+padding-left: 30px!important;
+position: relative;
+top: -5px;}
+
+#menu-user-dropdown {
+background: white;
+z-index: 1000;
+border: solid 3px #FFc200;
+top: 4px;
+border-right: solid 3px #FFc200;
+border-bottom: solid 3px #FFc200;
+box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+min-width: 120px;
+top: 24px!important;
+}*/
+#menu-user-name {
+background: rgb(255, 194, 0) url(../img/menuicon2.png) no-repeat 6px 7px;
+border: 0;
+display: inline-block;
+text-align: center;
+cursor: pointer;
+border-bottom: solid 3px #EB9600;
+height: 20px;
+font: normal 11px/22px Cabin;
+padding-left: 30px!important;
+position: relative;
+top: 18px;
+
+}
+#menu-user-dropdown, #aidemenu {
+background: white;
+z-index: 1000;
+border: solid 3px #FFc200;
+top: 4px;
+border-right: solid 3px #FFc200;
+border-bottom: solid 3px #FFc200;
+box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+min-width: 137px;
+top: 48px!important;
+
+}
+footer,#top-mini-menu {
+
+display: none;
+}
+.category-label{display: none!important;}
+.uv-icon{display:none!important;;}

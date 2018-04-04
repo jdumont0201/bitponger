@@ -1,0 +1,22 @@
+module.exports = {
+    MAX_POINTS_PER_GAME:5,
+  finalAddressToReceivePayments : '1NNNqbXhHuB8SnEk75RfnbCthWcsy84jxi',
+  finalAddressToPay : '1NNNqbXhHuB8SnEk75RfnbCthWcsy84jxi',
+  finalAddressToSaveFee : '1NNNqbXhHuB8SnEk75RfnbCthWcsy84jxi',
+  walletIdentifier : '494bf832-f202-4370-8ec1-92b27cb7a560',
+  walletPassword : 'azeAZE1231',
+  MAX_FINDPAYMENTS_ATTEMPTS:10,
+  R:30,
+  H:1000,
+  W:1000,
+  d:16,
+  padwidth :10,
+  changeAngleAtBounce:true,
+  BOUNCE_MIX_RATIO:0.5,
+  padoffset : 5,
+   padheight:0.14,
+   speed:300,
+   vs:1,
+   rewardShare:0.99,
+  AMOUNTS:[0,1,10,100,1000]
+}
